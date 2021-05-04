@@ -1,5 +1,5 @@
 import java.util.*;
-class DijkastraRitik
+class Dijkastra
 {
 	public static int minDistance(int distance[], boolean visited[])
 	{
